@@ -27,6 +27,9 @@ public class CompanyInfo {
 		c.companyName("google", 88);
 		c.companyName("google", 88, "Noida");
 		c.companyName("google", 88, "Noida", 489320l);
+		
+		
+		System.out.println("merged in master");
 	}
 
 }
