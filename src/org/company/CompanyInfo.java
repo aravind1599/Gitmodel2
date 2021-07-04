@@ -30,6 +30,7 @@ public class CompanyInfo {
 		
 		
 		System.out.println("merged in master");
+		System.out.println("Git conflict");
 	}
 
 }
