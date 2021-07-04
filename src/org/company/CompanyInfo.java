@@ -28,8 +28,14 @@ public class CompanyInfo {
 		c.companyName("google", 88, "Noida");
 		c.companyName("google", 88, "Noida", 489320l);
 		
+<<<<<<< HEAD
+		
+		System.out.println("merged in master");
+		System.out.println("Git conflict");
+=======
 		System.out.println("git test code new");
 		System.out.println("end comment update");
+>>>>>>> 94cdfc42e27cf71f93d7488ed9dd057b40911c8d
 	}
 
 }
